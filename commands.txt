@@ -1,0 +1,2 @@
+python3 human_activity_recognition.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt --input input.MOV --gpu 1 --output output.mp4
+
